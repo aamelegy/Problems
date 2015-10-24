@@ -1,5 +1,6 @@
 import sys
 from collections import deque
+
 def readline():
     return sys.stdin.readline().strip()
 def writeline(value):
