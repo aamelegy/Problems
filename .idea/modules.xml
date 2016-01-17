@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FlappyBirdClone/.idea/FlappyBirdClone.iml" filepath="$PROJECT_DIR$/../FlappyBirdClone/.idea/FlappyBirdClone.iml" />
       <module fileurl="file://$PROJECT_DIR$/../NeatPy/.idea/evolution.iml" filepath="$PROJECT_DIR$/../NeatPy/.idea/evolution.iml" />
       <module fileurl="file://$PROJECT_DIR$/../neat-python/.idea/neat-python.iml" filepath="$PROJECT_DIR$/../neat-python/.idea/neat-python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/problems.iml" filepath="$PROJECT_DIR$/.idea/problems.iml" />
